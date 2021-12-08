@@ -2,6 +2,7 @@
 
 /**
  * Send_message_to_discord
+ * PHPCS
  *
  * @param  string $message The message to send.
  *
